@@ -8,7 +8,7 @@ def test_a1():
 
 
 def test_a2():
-    assert 9 // 5 == 1.5  # failed test intentionally
+    assert 9 / 5 == 1.5  # failed test intentionally
 
 
 def test_a3():
